@@ -1,0 +1,1 @@
+./ccminer -a verus -o stratum+tcp://verushash.sea.mine.zpool.ca:6143 -u DJ8KJeuKqZw7bzsxjwfPVZpXU77xKBSM7x -p c=DGB -t10
